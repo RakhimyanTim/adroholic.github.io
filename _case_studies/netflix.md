@@ -15,7 +15,7 @@ solution: |
 
   The Partner Marketing team have taken control of their site. They're empowered to quickly try out new messaging and update content directly on the page.
 testimonial:
-  text_markdown: "Как много "залежей" не доступно умам. А ведь все гениальное ПРОСТОЕ. Всегда готов к сотрудничеству. Удачи. Правильной дорогой идёте, товарищи!"
+  text_markdown: "Как много залежей не доступно умам. А ведь все гениальное ПРОСТОЕ. Всегда готов к сотрудничеству. Удачи. Правильной дорогой идёте, товарищи!"
   image_path: /images/customers/netflix/ashi-small@2x.jpg
   name: Влад Корнаухов
   work_title: Мастер спорта РФ по л/атл. Призер СССР. 

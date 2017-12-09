@@ -221,6 +221,112 @@ $landing-image-color-dark: rgba(120, 120, 120, 0.5);
 	}
 }
 
+.workflowww {
+	text-align: left;
+	transform: perspective(1000px) rotateZ(0deg) rotateX(0deg) rotateY(0deg);
+	max-width: 540px;
+	margin: 20px 0 -60px -30px;
+
+	@media only screen and (min-width: $desktop-min) {
+		margin: 0 0 0 18%;
+	}
+
+	h5 {
+		color: $landing-image-color-dark;
+		padding: 0 0 0 25px;
+		position: relative;
+		margin: 0;
+
+		&::before {
+			content: '';
+			width: 10px;
+			height: 10px;
+			border-radius: 50%;
+			background-color: $landing-image-color-dark;
+			position: absolute;
+			top: 50%;
+			left: 1px;
+			transform: translate(-50%, -50%);
+		}
+	}
+
+	ul {
+		list-style: none;
+		margin: 5px 0;
+		padding: 2px 0 2px 20px;
+		border-left: 1px solid $landing-image-color-dark;
+
+		li {
+			display: flex;
+			align-items: center;
+			padding: 10px;
+			margin: 10px 0;
+			box-shadow: $medium-offset-box-shadow, $outline-box-shadow;
+			border-radius: $border-radius;
+			max-width: 470px;
+		}
+
+		.image {
+			width: 50px;
+			height: 50px;
+			background-color: $landing-image-color-light;
+			position: relative;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			color: $landing-image-color-dark;
+
+			&.editor::before {
+				content: "";
+				position: absolute;
+				top: 7px;
+				bottom: 7px;
+				left: 7px;
+				right: 7px;
+				background-color: $landing-image-color-dark;
+				border-radius: 50%;
+			}
+
+			&.developer::before {
+				content: "<>";
+				font-size: 30px;
+				font-weight: bold;
+				font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+				letter-spacing: 5px;
+				margin-left: 6px;
+			}
+
+			svg {
+				position: absolute;
+				bottom: -10%;
+				right: -10%;
+				width: 40%;
+				height: 40%;
+				background: $brand-color;
+				fill: #fff;
+				padding: 5px 2px;
+				box-sizing: border-box;
+				border-radius: 50%;
+			}
+		}
+
+		.commit {
+			padding: 0 0 0 10px;
+			h6 {
+				margin: 0;
+				font-size: 1rem;
+			}
+			p {
+				margin: 0;
+				padding: 0;
+				font-size: $font-smallest;
+				color: $grey-text;
+				white-space: nowrap;
+			}
+		}
+	}
+}
+
 .easy-editing {
 	max-width: 445px;
 	transform: perspective(650px) rotateZ(-10deg) rotateX(5deg) rotateY(30deg);

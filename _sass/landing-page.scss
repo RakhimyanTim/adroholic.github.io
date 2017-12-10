@@ -231,7 +231,7 @@ $landing-image-color-dark: rgba(120, 120, 120, 0.5);
 		margin: 0 0 0 18%;
 	}
 
-	img,
+	image,
 	&::before
 	&::after {
 		display: inline-block;
@@ -257,7 +257,7 @@ $landing-image-color-dark: rgba(120, 120, 120, 0.5);
 		transform: translateX(-$xOffset) translateY($yOffset);
 	}
 
-	img {
+	image {
 		z-index: 9;
 		position: relative;
 	}
@@ -275,12 +275,12 @@ $landing-image-color-dark: rgba(120, 120, 120, 0.5);
 		left: 2%;
 	}
 
-	img {
+	image {
 		z-index: 9;
 		position: relative;
 	}
 
-	img,
+	imgage,
 	span {
 		border-radius: $border-radius;
 	}
@@ -353,7 +353,7 @@ $landing-image-color-dark: rgba(120, 120, 120, 0.5);
 		}
 	}
 
-	img {
+	image {
 		position: absolute;
 	}
 

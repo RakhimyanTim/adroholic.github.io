@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: CloudCannon
-description: CloudCannon has everything you need to build, host and update Jekyll websites.
-url: https://cloudcannon.com
-disqus_shortname: cloudcannon
+title: Adroholic
+description: Онлайн-программа для тренировок.
+url: https://adroholic.ru
+disqus_shortname: adroholic
 baseurl:
 
 google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
@@ -31,9 +31,9 @@ defaults:
 lang: en_NZ
 logo: /siteicon.png
 twitter:
-  username: CloudCannon
+  username: adroholic
 facebook:
-  publisher: https://www.facebook.com/CloudCannon
+  publisher: https://www.facebook.com/adroholic
 social:
   name: CloudCannon
   links:

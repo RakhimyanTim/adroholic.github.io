@@ -1,13 +1,13 @@
 # ----
 # Site
 
-title: Adroholic
-description: Онлайн-программа для тренировок.
-url: https://adroholic.ru
-disqus_shortname: adroholic
+title: Pullnfit
+description: Сервис по подбору индивидуальных планов тренировок, совместимых с календарем.
+url: https://pullnfit.ru
+disqus_shortname: pullnfit
 baseurl:
 
-google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
+google_site_verification: 
 permalink: pretty
 timezone: Pacific/Auckland
 collections:
@@ -33,15 +33,15 @@ logo: /siteicon.png
 twitter:
   username: adroholic
 facebook:
-  publisher: https://www.facebook.com/adroholic
+  publisher: https://www.facebook.com/pullnfit
 social:
-  name: CloudCannon
+  name: Pullnfit
   links:
-    - https://twitter.com/CloudCannon
-    - https://www.facebook.com/CloudCannon
-    - https://plus.google.com/+CloudCannon
-    - https://www.youtube.com/c/CloudCannon
-    - https://github.com/CloudCannon
+    - https://twitter.com/pullnfit
+    - https://www.facebook.com/pullnfit
+    - https://plus.google.com/+pullnfit
+    - https://www.youtube.com/c/pullnfit
+    - https://github.com/pullnfit
 
 exclude:
   - Gemfile

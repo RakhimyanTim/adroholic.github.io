@@ -17,18 +17,18 @@ vlad:
 elza:
   name: Эльза Абубакирова
   image: /images/team/elza.jpg
-  position: Со-основатель
+  position: Координатор по работе с инструкторами по фитнесу/ Со-основатель
   twitter: 
   email_address: elza.abubakirowa@yandex.ru 
-  bio: "Тренер по фитнесу. Мастер спорта по ППС. Действующая чемпионка мира по ППС."
+  bio: "Координатор по работе с инструкторами по фитнесу в Pullnfit. Мастер спорта по ППС. Действующая чемпионка мира по ППС."
 
-ross:
-  name: Ross Phillips
-  image: /images/team/ross.jpg
-  position: Application Engineer
-  twitter: rphillips_nz
-  email_address: ross@cloudcannon.com
-  bio: "is an Application Engineer at CloudCannon. He creates and maintains features for the platform. His main interests are technology, snowboarding, nature and travel."
+oleg:
+  name: Олег Шерыхалин
+  image: /images/team/oleg.jpg
+  position: Архитектор-программист/ Со-основатель
+  twitter: 
+  email_address: o.sherykhalin@gmail.com
+  bio: "Архитектор-программист в Pullnfit. К.ф-м.н. Более 20 лет в программировании высоконагруженных систем."
 
 tim:
   image: /images/authors/tim.jpg

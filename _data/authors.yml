@@ -6,13 +6,13 @@ rakhimyan:
   email_address: walkingstartup@gmail.com
   bio: "Генеральный директор Pullnfit. Он любит все, что связано с физкультурой и спортом, а также стартапы."
 
-george:
-  name: George Phillips
-  image: /images/team/george.jpg
-  position: CTO/Co-founder
-  twitter: gphillips_nz
-  email_address: george@cloudcannon.com
-  bio: "is the CTO of CloudCannon. He is a passionate, self-taught designer with a BSc in Computer Science. He blogs about HTML/CSS, JavaScript and anything even remotely connected with Web Design."
+vlad:
+  name: Влад Корнаухов
+  image: /images/team/vlad.jpg
+  position: Советник по спорту
+  twitter: 
+  email_address: vlad.kornauhov.2017@gmail.com
+  bio: "Советник по спорту. Мастер спорта по л/атл. Чемиион мира. Призер СССР в беге на 100 м."
 
 mike:
   name: Mike Neumegen

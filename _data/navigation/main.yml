@@ -1,1 +1,6 @@
-
+- link: /features/
+  name: Особенности
+- link: /pricing/
+  name: Цены
+- link: /blog/
+  name: Блог

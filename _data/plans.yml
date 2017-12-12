@@ -1,37 +1,28 @@
 - name: Free
   price: 0
-  sub: Great for development
+  sub: Для школьников
   features:
-    - Live test sites
-    - GitHub, Bitbucket and Dropbox syncing
-    - Single user
+    - Комплекс упражнений в домашних условиях, в спортзале и в спортплощадке
 - name: Basic
-  price: 25
-  sub: Perfect for freelancers
+  price: 1000
+  sub: Для клиентов клубов
   highlight: true
   features:
-    - Unlimited productions sites
-    - Custom domains and DNS
-    - Per site sharing
-    - Free editing for clients
+    - Комплекс упражнений в фитнес-клубе, в спорт-клубе
 - name: Pro
-  price: 75
-  sub: For teams of any size
+  price: 2000
+  sub: Для профессионалов
   features:
-    - Includes 5 team members
-    - Organisation support
-    - Custom branding
-    - Team sharing
-    - SAML support
-- name: Enterprise
-  price_alt: Enquire
-  sub: Join companies like Netflix
+    - Мониторинг активности, отдыха
+    - Динамическая адаптация плана тренивок
+- name: Business
+  price_alt: По требованию
+  sub: Присоединяйтесь к компаниям, таким как Netflix
   features:
-    - Larger teams
-    - Training and optimisations
-    - Priority support
-    - Prioritised feature development
+    - Большие команды
+    - Обучение и оптимизация
+    - Приоритетная поддержка
   cta:
-    text: Contact Us
+    text: Свяжитесь с нами
     link: /contact/
 

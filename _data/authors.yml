@@ -7,20 +7,20 @@ rakhimyan:
   bio: "Генеральный директор Pullnfit. Он любит все, что связано с физкультурой и спортом, а также стартапы."
 
 vlad:
-  name: Влад Корнаухов
+  name: Владислав Корнаухов
   image: /images/team/vlad.jpg
-  position: Советник по спорту
+  position: Советник по спорту/Со-основатель
   twitter: 
   email_address: vlad.kornauhov.2017@gmail.com
   bio: "Советник по спорту. Мастер спорта по л/атл. Чемиион мира. Призер СССР в беге на 100 м."
 
-mike:
-  name: Mike Neumegen
-  image: /images/team/mike.jpg
-  position: CEO/Co-founder
-  twitter: mikeneumegen
-  email_address: mike@cloudcannon.com
-  bio: "is the CEO of CloudCannon. He loves all things web design, tech, photography and music."
+elza:
+  name: Эльза Абубакирова
+  image: /images/team/elza.jpg
+  position: Со-основатель
+  twitter: 
+  email_address: elza.abubakirowa@yandex.ru 
+  bio: "Тренер по фитнесу. Мастер спорта по ППС. Действующая чемпионка мира по ППС."
 
 ross:
   name: Ross Phillips

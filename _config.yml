@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Pullnfit
-description: Сервис по подбору индивидуальных планов тренировок, совместимых с календарем.
+title: Спорт без границ
+description: Сервис по подбору индивидуальных планов тренировок прямо в календарь.
 url: https://pullnfit.ru
 disqus_shortname: pullnfit
 baseurl:
@@ -31,11 +31,11 @@ defaults:
 lang: en_NZ
 logo: /siteicon.png
 twitter:
-  username: adroholic
+  username: pullnfit
 facebook:
   publisher: https://www.facebook.com/pullnfit
 social:
-  name: Pullnfit
+  name: pullnfit
   links:
     - https://twitter.com/pullnfit
     - https://www.facebook.com/pullnfit

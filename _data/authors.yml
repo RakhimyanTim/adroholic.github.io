@@ -5,14 +5,6 @@ rakhimyan:
   twitter: rakhimyan
   email_address: walkingstartup@gmail.com
   bio: "Генеральный директор в Pullnfit. Он любит все, что связано с физкультурой и спортом, а также стартапы."
-  
-oleg:
-  name: Олег Шерыхалин
-  image: /images/team/oleg.jpg
-  position: Архитектор-программист/ Со-основатель
-  twitter: 
-  email_address: o.sherykhalin@gmail.com
-  bio: "Архитектор-программист в Pullnfit. К.ф-м.н. Более 20 лет в программировании высоконагруженных систем."
 
 elza:
   name: Эльза Абубакирова
@@ -29,17 +21,3 @@ vlad:
   twitter: 
   email_address: vlad.kornauhov.2017@gmail.com
   bio: "Советник по спорту в Pullnfit. Мастер спорта по л/атл. Чемиион мира. Призер СССР в беге на 100 м."
-
-tim:
-  image: /images/authors/tim.jpg
-  twitter: n00begon
-  author: tim
-  name: Tim Neumegen
-  bio: "is fascinated by technology and history."
-
-sam:
-  image: /images/authors/sam.jpg
-  twitter: sambonney
-  author: sam
-  name: Sam Bonney
-  bio: "loves noodles, cravats, and the great outdoors. Sometimes all at the same time."

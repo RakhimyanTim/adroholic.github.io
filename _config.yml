@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: Спорт без границ
-description: Сервис по подбору индивидуальных планов тренировок прямо в календарь.
+title: Pullnfit
+description: Сервис по подбору индивидуальных программ тренировок и питания с помощью нейросети прямо в календарь.
 url: https://pullnfit.ru
 disqus_shortname: pullnfit
 baseurl:
 
 google_site_verification: 
 permalink: pretty
-timezone: Pacific/Auckland
+timezone: YEKT
 collections:
   case_studies:
     output: false

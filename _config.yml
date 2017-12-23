@@ -14,6 +14,9 @@ collections:
   case_studies:
     output: false
     permalink: /case-studies/:name/
+  careers:
+    output: true
+    permalink: /careers/:name/
 defaults:
   - scope:
       path: ""

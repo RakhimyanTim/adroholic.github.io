@@ -2,7 +2,7 @@
 # Site
 
 title: Pullnfit
-description: Сервис по подбору индивидуальных программ тренировок и питания с помощью нейросети прямо в календарь.
+description: Pullnfit – это такой подход для фитнес-тренеров, когда каждый клиент занимается по индивидуальной программе.
 url: https://pullnfit.ru
 disqus_shortname: pullnfit
 baseurl:

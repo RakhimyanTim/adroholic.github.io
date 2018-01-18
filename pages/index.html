@@ -1,6 +1,6 @@
 ---
 layout: main-landing
-title: Сервис по продаже персоналок за 7 сек. +WEB-приложение в подарок.
+title: Сервис по продаже персоналок за 7 сек. +Веб-сайт с онлайн-программой в подарок.
 permalink: /
 cta: "landing_page"
 sitemap:
@@ -9,11 +9,17 @@ sitemap:
 header_class: "landing"
 ---
 <div class="landing-page-content">
-  {% include components/home-page/content-image.html image="workflow" heading="Высокая пропускная способность" content_markdown="Продажа одной персоналки занимает в среднем 7 сек. При минимальных человеческих ресурсах." %}
+  {% include components/home-page/content-image.html image="workflow" heading="Заработок" content_markdown="Во-первых, таким образом тренер больше зарабатывает.  %}
 
-  {% include components/home-page/content-image.html image="editing" heading="Статистика в режиме реального времени" content_markdown="С любого устройства доступны данные о том, сколько человек уже получили свои программы и сколько еще ожидают." %}
+  {% include components/home-page/content-image.html image="editing" heading="Мотивации" content_markdown="Во-вторых, у таких клиентов мощная мотивация за счет специальной схемы, по которой они могут вернуть часть оплаты." %}
 
-  {% include components/home-page/content-image.html image="tools" heading="Хорошие деньги" content_markdown="Получайте еженедельный гонорар лишь за то, что помогаете посетителям добиваться более заметных результатов за счет индивидуальных тренировочных программ." %}
+  {% include components/home-page/content-image.html image="tools" heading="Рекомендативный фактор" content_markdown="В-третьих, рекомендативный фактор таких клиентов выше из-за более быстрого и заметного результата." %}
+  
+  {% include components/home-page/content-image.html image="tools" heading="Продолжительность жизни" content_markdown="Наконец средняя 'продолжительность жизни' такого клиента выше в несколько раз (он лучше продлевает персоналку)." %}
+  
+  {% include components/home-page/content-image.html image="tools" heading="Посещаемость" content_markdown="И он чаще ходят в клуб из-за точного графика, привязанного в его календарь на смартфоне." %}
+  
+  {% include components/home-page/content-image.html image="tools" heading="Лояльность" content_markdown="Лояльность таких клиентов выше: они практически 'не ноют', меньше просят скидки и редко создают проблемы." %}
 </div>
 
 {% assign case = site.case_studies | where: "name", "Netflix" | first %}

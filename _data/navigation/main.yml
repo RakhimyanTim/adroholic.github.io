@@ -2,11 +2,11 @@
   name: Преимущества
 - link: /pricing/
   name: Цены
-- link: /blog/
-  name: Блог
-- link: /about/
-  name: О нас
 - link: /partners/
   name: Партнеры
 - link: /experts/
   name: Эксперты
+- link: /blog/
+  name: Блог
+- link: /about/
+  name: О нас

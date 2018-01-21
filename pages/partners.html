@@ -9,6 +9,6 @@ permalink: /partners/
 <ul class="experts">
 	{% assign partners = site.data.partners | sort: 'name' %}
 	{% for partner in partners %}
-		<li><a href="{{ partner.link }}">{{ partner.name }}</a> - {{ partner.location }}</li>
+		<li><a href="{{ partner.link }}">{{ partner.name }}</a> - {{ partner.status }} ({{ partner.location }})</li>
 	{% endfor %}
 </ul>

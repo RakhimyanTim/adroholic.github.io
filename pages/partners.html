@@ -1,0 +1,14 @@
+---
+layout: info-page
+title: Партнеры
+permalink: /partners/
+---
+
+<h1>Партнеры</h1>
+
+<ul class="experts">
+	{% assign partners = site.data.partners | sort: 'name' %}
+	{% for partner in partners %}
+		<li><a href="{{ partner.link }}">{{ partner.name }}</a> - {{ partner.location }}</li>
+	{% endfor %}
+</ul>

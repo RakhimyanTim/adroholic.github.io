@@ -2,10 +2,10 @@
 ---
 title: Простой способ продать персоналки
 author: rakhimyan
-category: Fitnes
+category: Fitness
 image: /images/blog/easy-way-to-sale-the-personals/snow-leo.jpg
 image_featured: false
-permalink: /fitnes/2018/01/20/easy-way-to-sale-the-personals.html
+permalink: /fitness/2018/01/20/easy-way-to-sale-the-personals.html
 ---
 Фитнес - это бизнес чистой воды. Если вы работаете фитнес-тренером, то должны стать __предпринимателем__, то есть уметь продавать свои услуги. 
 

@@ -2,15 +2,15 @@
 title: Простой способ продать персоналки
 author: rakhimyan
 category: Fitness
-image: /images/blog/easy-way-to-sale-the-personals/snow-leo.jpg
-image_featured: false
+image: /images/blog/2018-01-20-easy-way-to-sale-the-personals/snow-leo.jpg
+image_featured: true
 permalink: /fitness/2018/01/20/easy-way-to-sale-the-personals.html
 ---
 Фитнес - это бизнес чистой воды. Если вы работаете фитнес-тренером, то должны стать __предпринимателем__, то есть уметь продавать свои услуги. 
 
 Чаще всего вам приходится продавать персональные тренировки. За свои небольшие по сроку наблюдения я заметил три типа `охотников`, которые безуспешно пытались мне `впарить` свои услуги. 
 
-![Includes](/images/blog/easy-way-to-sale-the-personals/dog.jpg)
+![Includes](/images/blog/2018-01-20-easy-way-to-sale-the-personals/dog.jpg)
 
 Думаю, останавливаться на первых двух нет смысла, так как вы итак с ними часто встречаетесь. Как правило, это новички и те, которые только-что вернулись с различных курсов по продажам. 
 
@@ -20,7 +20,7 @@ permalink: /fitness/2018/01/20/easy-way-to-sale-the-personals.html
 
 Они просто говорят с тобой. Кажется, они понимают, что общение для них - это еще одна возможность узнать что-то новое о своем клиенте. Они хотят говорить с тобой и внимательно слушают.
 
-![Includes](/images/blog/easy-way-to-sale-the-personals/snow-leo.jpg)
+![Includes](/images/blog/2018-01-20-easy-way-to-sale-the-personals/snow-leo.jpg)
 
 * Они энтузиасты, от них прямо `прет позитивом`, они могут сказать проходящему незакомцу 'Привет' и делают это с большой улыбкой.
 
